@@ -25,7 +25,7 @@
   Focused on microservices, high concurrency, payment integration, and system optimization
 
 - 🌱 Currently pursuing **Master's in Artificial Intelligence** @ Taylor's University (Malaysia)  
-  Deep diving into **Java + LangChain4j + RAG** to build intelligent business applications
+  
 
 - 💼 Core strengths:
   - Spring Cloud microservices architecture & refactoring
